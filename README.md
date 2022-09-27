@@ -16,9 +16,12 @@
 ---
 
 ### paletas de colores/
-- #0c181c
-- #223026
+- #ebe6ea
+- #e4c5c4
+- #c8ad8d
+- #6f7357
 - #273a2d
+![paletasDeColores](https://github.com/lionel9704/Readme/blob/dev/Paleta%20de%20color.png)
 
 
 ## Para encontrar nuestros productos entra a nuestra pagina 
