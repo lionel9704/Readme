@@ -28,7 +28,7 @@
 - #c8ad8d
 - #6f7357
 - #273a2d
-![paletasDeColores](https://github.com/lionel9704/Readme/blob/dev/Paleta%20de%20color.png)
+![paletasDeColores](https://github.com/lionel9704/Readme/blob/corregido/Paleta%20de%20color.png)
 
 
 ---
